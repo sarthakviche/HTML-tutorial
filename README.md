@@ -1,0 +1,2 @@
+# HTML-tutorial
+ This repository contains all the code and projects from my web development learning journey, starting with foundational concepts in HTML, CSS, and JavaScript. It serves as a record of my progress as I build simple web pages, apply CSS styling, and introduce interactivity using JavaScript. The repository will be regularly updated as I explore more advanced web development topics and complete various projects, with the goal of building a solid understanding of modern web technologies.
